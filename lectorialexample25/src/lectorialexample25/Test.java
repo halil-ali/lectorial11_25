@@ -1,7 +1,8 @@
 package lectorialexample25;
 
 public class Test {
-   public Test() {
-      
+   int value;
+   public Test(int value) {
+      this.value=value;
    }
 }
